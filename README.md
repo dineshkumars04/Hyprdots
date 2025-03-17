@@ -1,8 +1,8 @@
 # Hyprdots
 
-# Hyprdots - My Hyprland Dotfiles
+**Hyprdots - My Hyprland Dotfiles**
 
-# I USE ARCH,BTW
+**I USE ARCH,BTW**
 
 
 This repository contains my **Hyprland** configuration files, neatly organized for easy setup and customization. These dotfiles include configurations for Hyprland, Waybar, Kitty, Zsh, and other essential tools.
@@ -18,7 +18,7 @@ This repository contains my **Hyprland** configuration files, neatly organized f
 
 ## 🛠️ Installation
 
-### 1️⃣ Clone the Repository
+### Clone the Repository
 
 ```bash
 git clone https://github.com/dineshkumars04/Hyprdots.git ~/.dotfiles
@@ -43,6 +43,5 @@ git clone https://github.com/dineshkumars04/Hyprdots.git ~/.dotfiles
 
 ## 📷 Screenshots
 
-(Add your screenshots here)
 ![Description](hyprrice.png)
 
